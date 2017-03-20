@@ -1,0 +1,3 @@
+C:/Users/dubjr/CLionProjects/new/concordance/cmake-build-debug/CMakeFiles/concordance.dir
+C:/Users/dubjr/CLionProjects/new/concordance/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dubjr/CLionProjects/new/concordance/cmake-build-debug/CMakeFiles/rebuild_cache.dir

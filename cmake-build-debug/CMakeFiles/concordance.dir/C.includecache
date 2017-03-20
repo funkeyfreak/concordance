@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/dubjr/CLionProjects/new/concordance/fileHelper.c
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+hashHelper.h
+C:/Users/dubjr/CLionProjects/new/concordance/hashHelper.h
+fileHelper.h
+C:/Users/dubjr/CLionProjects/new/concordance/fileHelper.h
+
+C:/Users/dubjr/CLionProjects/new/concordance/fileHelper.h
+stdio.h
+-
+hashHelper.h
+C:/Users/dubjr/CLionProjects/new/concordance/hashHelper.h
+
+C:/Users/dubjr/CLionProjects/new/concordance/hashHelper.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+hashHelper.h
+C:/Users/dubjr/CLionProjects/new/concordance/hashHelper.h
+
+C:/Users/dubjr/CLionProjects/new/concordance/hashHelper.h
+
+C:/Users/dubjr/CLionProjects/new/concordance/main.c
+stdio.h
+-
+fileHelper.h
+C:/Users/dubjr/CLionProjects/new/concordance/fileHelper.h
+
